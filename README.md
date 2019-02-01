@@ -26,9 +26,9 @@
 
 ## Service Worker
 
-* Neha Sharma, [Service workers Cookbook — Part 1](https://medium.com/@hellonehha/pwa-series-service-workers-cookbook-part-1-c89fa0d547a7), 13 février 2018
+* Mozilla, [Service Worker Cookbook](https://serviceworke.rs/)
 
-> In this article we will learn the backbone of the PWA — Service workers. They help making our PWA — Fast, offline support, Push notifications , presenting the updated content always and much more.
+> The Service Worker Cookbook is a collection of working, practical examples of using service workers in modern web sites.
 
 * Jeremy Keith, [Minimal viable service worker](https://adactio.com/journal/13540), 6 mars 2018
 
@@ -62,6 +62,10 @@
 * Rich Harris (NY Times), [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9), 21 juillet 2016
 
 > I recently had several days of extremely frustrating experiences with service workers. Here are a few things I've since learned which would have made my life much easier
+
+* [Service Worker gotchas](https://www.kollegorna.se/en/2017/06/service-worker-gotchas/), juillet 2017
+
+> We’ve learned quite a few gotchas to grasp in order to get Service Worker working correctly…
 
 *  David Brunelle (Starbucks), [Building a PWA has made me more aware of some advantages native apps have](https://twitter.com/davidbrunelle/status/962398379136331777), 10 février 2018
 
