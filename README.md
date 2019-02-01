@@ -1,6 +1,6 @@
 # Les bons liens pour se lancer dans les PWA
 
-![PWA logo](https://user-images.githubusercontent.com/9122190/28998409-c5bf7362-7a00-11e7-9b63-db56694522e7.png)
+[![PWA logo](https://user-images.githubusercontent.com/9122190/28998409-c5bf7362-7a00-11e7-9b63-db56694522e7.png)](https://github.com/webmaxru/progressive-web-apps-logo/issues/4)
 
 ## Dictionnaire 
 
