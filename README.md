@@ -33,7 +33,7 @@
 
 ## Retour d'XP
 
-* Tom Dale (LinkedIn), [](https://twitter.com/tomdale/status/1086306144195395586), 18 janvier 2019
+* Tom Dale (LinkedIn), [The service workers at LinkedIn](https://twitter.com/tomdale/status/1086306144195395586), 18 janvier 2019
 
 > It's way, way too easy right now to have Service Worker blow up in your face.
 
