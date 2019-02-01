@@ -6,6 +6,16 @@
 - Service Workers : un fichier JavaScript qui fera l'intermédiaire entre le navigateur et le réseau et/ou le cache une fois l'application installée
 - Application Shell : l'ensemble des fichiers HTML, CSS et JavaScript minimum requis pour faire tourner notre application
 
+## Introduction 
+
+* Franck Taillandier, [Que sont les Progressive Web Apps ?](https://frank.taillandier.me/2016/06/28/que-sont-les-progressive-web-apps/), 28 juin 2016 
+
+> Une Progressive Web App utilise les possibilités du web moderne pour délivrer une expérience utilisateur similaire à une application native.
+
+* [PWA Stats](https://www.pwastats.com/)
+
+> A community-driven list of stats and news related to Progressive Web Apps
+
 ## Service Worker
 
 * Neha Sharma, [Service workers Cookbook — Part 1](https://medium.com/@hellonehha/pwa-series-service-workers-cookbook-part-1-c89fa0d547a7), 13 février 2018
@@ -22,6 +32,10 @@
 
 
 ## Retour d'XP
+
+* Tom Dale (LinkedIn), [](https://twitter.com/tomdale/status/1086306144195395586), 18 janvier 2019
+
+> It's way, way too easy right now to have Service Worker blow up in your face.
 
 * Rich Harris (NY Times), [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9), 21 juillet 2016
 
@@ -43,10 +57,11 @@
 
 * [PWA in Google Play Store](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc), 31 janvier 2019
 
+* [PWA in iOS11](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7), 30 mars 2018
+
 * [PWA in all Chrome platforms](https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8), 18 février 2018
 
 * [PWA in Microsoft Edge and Windows 10](https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/), 6 février 2018
-
 
 
 
