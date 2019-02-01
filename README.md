@@ -30,6 +30,24 @@
 
 > Web workers, service workers, and worklets. All of these are what I would call “Javascript Workers”, and although they do have some similarities in how they work, they have very little overlap in what they are used for.
 
+* Adnan Chowdhury, [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/), 28 juillet 2017
+
+> Understanding PWA life cycle and events.
+
+## Tools
+
+* [Can I use Service Worker?](https://jakearchibald.github.io/isserviceworkerready/)
+
+> Yes.
+
+* [PWABuilder](http://preview.pwabuilder.com/)
+
+> Tools build and check your PWA.
+
+* [Workbox](https://developers.google.com/web/tools/workbox/)
+
+> Workbox is a set of libraries and Node modules that make it easy to cache assets
+
 
 ## Retour d'XP
 
