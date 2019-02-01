@@ -8,14 +8,17 @@
 
 ## Service Worker
 
+* Neha Sharma, [Service workers Cookbook — Part 1](https://medium.com/@hellonehha/pwa-series-service-workers-cookbook-part-1-c89fa0d547a7), 13 février 2018
+
+> In this article we will learn the backbone of the PWA — Service workers. They help making our PWA — Fast, offline support, Push notifications , presenting the updated content always and much more.
+
+* Jeremy Keith, [Minimal viable service worker](https://adactio.com/journal/13540), 6 mars 2018
+
+> The service worker strategy for every website needs to be different. Still, I was wondering if it would be possible to create a service worker script that would work for most websites.
+
 * Ire Aderinokun, [Web workers vs Service workers vs Worklets](), 20 novembre 2018
 
 > Web workers, service workers, and worklets. All of these are what I would call “Javascript Workers”, and although they do have some similarities in how they work, they have very little overlap in what they are used for.
-
-* Marcos Caceres (Mozilla), [Progressively Approaching Service Workers](https://marcoscaceres.github.io/codeconf-talk/), 2 août 2016
-
-> Service Workers Building Blocks: Fetch API, Cache API, Notifications, Push API, And so on...
-
 
 
 ## Retour d'XP
@@ -35,4 +38,15 @@
 * Dean Hume, [How to display a "new version available](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/), 16 mai 2018
 
 > If you’ve ever tried to build a web application that is completely offline first, you’ll know how tricky it can be to make changes to the users cache when you do make updates to the site and the user has connectivity.
+
+## PWA everywhere
+
+* [PWA in Google Play Store](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc), 31 janvier 2019
+
+* [PWA in all Chrome platforms](https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8), 18 février 2018
+
+* [PWA in Microsoft Edge and Windows 10](https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/), 6 février 2018
+
+
+
 
