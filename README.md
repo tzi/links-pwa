@@ -75,7 +75,7 @@
 
 > What to check if you are experiencing bloated cache storage when your service worker caches static assets served from CDNs.
 
-* Dean Hume, [How to display a "new version available](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/), 16 mai 2018
+* Dean Hume, [How to display a "new version" available](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/), 16 mai 2018
 
 > If you’ve ever tried to build a web application that is completely offline first, you’ll know how tricky it can be to make changes to the users cache when you do make updates to the site and the user has connectivity.
 
