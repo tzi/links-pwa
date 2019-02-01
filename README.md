@@ -1,6 +1,8 @@
 # Les bons liens pour se lancer dans les PWA
 
-## Dictionaire 
+![PWA logo](https://user-images.githubusercontent.com/9122190/28998409-c5bf7362-7a00-11e7-9b63-db56694522e7.png)
+
+## Dictionnaire 
 
 - Web App Manifest : un fichier JSON qui suit [la spécification w3c](https://w3c.github.io/manifest/).
 - Service Workers : un fichier JavaScript qui fera l'intermédiaire entre le navigateur et le réseau et/ou le cache une fois l'application installée
