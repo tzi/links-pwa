@@ -6,7 +6,7 @@
 
 - Web App Manifest : un fichier JSON qui suit [la spécification w3c](https://w3c.github.io/manifest/).
 - Service Workers : un fichier JavaScript qui fera l'intermédiaire entre le navigateur et le réseau et/ou le cache une fois l'application installée
-- Application Shell : l'ensemble des fichiers HTML, CSS et JavaScript minimum requis pour faire tourner notre application
+- Application Shell : l'ensemble des fichiers HTML, CSS et JavaScript requis pour faire tourner notre application
 
 ## Introduction 
 
