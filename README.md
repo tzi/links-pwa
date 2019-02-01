@@ -10,6 +10,12 @@
 
 ## Introduction 
 
+* Aaron Gustafson, [Your Site Should Be a PWA ](https://www.aaron-gustafson.com/notebook/your-site-should-be-a-pwa/), 6 juillet 2017
+
+* [Can I use Service Worker?](https://jakearchibald.github.io/isserviceworkerready/)
+
+> Yes.
+
 * Franck Taillandier, [Que sont les Progressive Web Apps ?](https://frank.taillandier.me/2016/06/28/que-sont-les-progressive-web-apps/), 28 juin 2016 
 
 > Une Progressive Web App utilise les possibilités du web moderne pour délivrer une expérience utilisateur similaire à une application native.
@@ -37,10 +43,6 @@
 > Understanding PWA life cycle and events.
 
 ## Tools
-
-* [Can I use Service Worker?](https://jakearchibald.github.io/isserviceworkerready/)
-
-> Yes.
 
 * [PWABuilder](http://preview.pwabuilder.com/)
 
